@@ -37,6 +37,3 @@ https://www.eventbrite.com/e/2022-biodigicon-tickets-367104919697?aff=erelexpmlt
 
 Submitter:
 19101535 Foysal Ahmed
-
-
-
