@@ -21,7 +21,7 @@ https://bucse431summer2022.slack.com/archives/C03HSFDL6QZ/p1661701349266389
 https://bucse431summer2022.slack.com/archives/C03HG7Q0JUU/p1655910416925789
 etc.
 
-experimented with following websites suggested by Annajiat Alim Rasel Sir:
+Experimented with following websites suggested by Annajiat Alim Rasel Sir:
 https://www.narakeet.com/
 https://openai.com/blog/our-approach-to-alignment-research/
 https://openai.com/dall-e-2/
