@@ -4,15 +4,13 @@ https://youtu.be/pq-0eiKc560
 Public link to the Concept Map:
 PDF: 
 https://github.com/Ahmed-Foysal/CSE431_NLP/blob/main/Submission3/AppendixA_concept_map.pdf
-Native/original format: 
-https://draw.io/...
+Native/original format (.drawio format): 
+https://drive.google.com/file/d/1DxhuapZDo1SG4C5qIQgO_eAS6MCADnH-/view?usp=sharing
 
-Name, Author, Edition, year and publisher of the Book:
+Name, Author, Edition of the Book:
 Speech and Language Processing
-Jurafsky
+Dan Jurafsky and James H. Martin
 3rd edition
-2014
-Pearson
 
 Link to the book:
 https://web.stanford.edu/~jurafsky/slp3/
