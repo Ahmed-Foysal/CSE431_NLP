@@ -3,7 +3,7 @@ https://youtu.be/pq-0eiKc560
 
 Public link to the Concept Map:
 PDF: 
-https://github.com/annajiat/CSE123/blob/main/submission3/Concept%20Map.pdf
+https://github.com/Ahmed-Foysal/CSE431_NLP/blob/main/Submission3/AppendixA_concept_map.pdf
 Native/original format: 
 https://draw.io/...
 
