@@ -15,17 +15,19 @@ Jurafsky
 Pearson
 
 Link to the book:
-https://amazon.com/...
+https://web.stanford.edu/~jurafsky/slp3/
 
 Link to the book chapter:
-https://books.google.com/books...
+https://web.stanford.edu/~jurafsky/slp3/A.pdf
 
 Group Number:
 9
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+18301001 Farhin Rahman
+19101535 Foysal Ahmed
+20241062 Ananya Subhra Trisha
+22341041 Miftahul Zannat Maliha
+
+Submitter:
+19101535 Foysal Ahmed
